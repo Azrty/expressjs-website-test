@@ -1,0 +1,8 @@
+{
+  "name": "expressjs-website-test",
+  "version": "0.0.1",
+  "author": "Azrty",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}
