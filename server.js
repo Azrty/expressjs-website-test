@@ -5,7 +5,7 @@ var port = process.env.PORT || 3000;
 
 app.get('/',function(req,res){
        
-     res.sendFile('pages/index.html');
+     res.sendFile('index.html');
 
 });
 
