@@ -9,6 +9,6 @@ app.get('/',function(req,res){
 
 });
 
-app.listen(3000);
-
-console.log("Running at Port 3000");
+app.listen(port, function () {
+ console.log(`Example app listening on port !`);
+});
