@@ -1,5 +1,5 @@
 app.get('/',function(req,res){
        
-     res.sendFile('index.html');
+     res.sendFile('pages/index.html');
 
 });
